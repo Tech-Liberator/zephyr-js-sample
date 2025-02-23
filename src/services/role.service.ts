@@ -1,4 +1,4 @@
-import { Service } from "Teenyjs";
+import { Service } from "teenyjs";
 
 @Service()
 export class RoleService {}

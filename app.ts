@@ -1,4 +1,4 @@
-import TeenyApp from "Teenyjs";
+import TeenyApp from "teenyjs";
 
 async function bootstrap(): Promise<void> {
   const app = new TeenyApp();

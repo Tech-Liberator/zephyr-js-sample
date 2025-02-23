@@ -1,4 +1,4 @@
-import { HttpStatus, PartData, Response, Service } from "Teenyjs";
+import { HttpStatus, PartData, Response, Service } from "teenyjs";
 
 @Service()
 export class UserService {

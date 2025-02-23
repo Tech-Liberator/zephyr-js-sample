@@ -11,7 +11,7 @@ import {
   FormData,
   Multipart,
   PartData,
-} from "Teenyjs";
+} from "teenyjs";
 import { UserService } from "../services/user.service.js";
 
 @Controller("/users")
