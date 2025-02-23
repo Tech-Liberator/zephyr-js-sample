@@ -11,7 +11,7 @@ import {
   FormData,
   Multipart,
   PartData,
-} from "zephyrjs";
+} from "Teenyjs";
 import { UserService } from "../services/user.service.js";
 
 @Controller("/users")

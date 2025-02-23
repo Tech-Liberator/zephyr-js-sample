@@ -1,7 +1,7 @@
-import ZephyrApp from "zephyrjs";
+import TeenyApp from "Teenyjs";
 
 async function bootstrap(): Promise<void> {
-  const app = new ZephyrApp();
+  const app = new TeenyApp();
   await app.init();
 }
 
